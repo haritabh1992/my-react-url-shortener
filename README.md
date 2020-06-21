@@ -2,7 +2,7 @@
 
 Created using [Create React App](https://github.com/facebook/create-react-app)
 
-Also followed this [blog](https://mherman.org/blog/dockerizing-a-react-app/#production) sepcifically for the docker setup
+Also followed this [blog](https://mherman.org/blog/dockerizing-a-react-app/) sepcifically for the docker setup
 
 Quick build command:
 ```
